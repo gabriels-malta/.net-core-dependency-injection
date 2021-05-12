@@ -1,0 +1,16 @@
+C:\Source\malta-lab\.net-core-dependency-injection\lab-di\bin\Debug\netcoreapp3.1\lab-di.exe
+C:\Source\malta-lab\.net-core-dependency-injection\lab-di\bin\Debug\netcoreapp3.1\lab-di.deps.json
+C:\Source\malta-lab\.net-core-dependency-injection\lab-di\bin\Debug\netcoreapp3.1\lab-di.runtimeconfig.json
+C:\Source\malta-lab\.net-core-dependency-injection\lab-di\bin\Debug\netcoreapp3.1\lab-di.runtimeconfig.dev.json
+C:\Source\malta-lab\.net-core-dependency-injection\lab-di\bin\Debug\netcoreapp3.1\lab-di.dll
+C:\Source\malta-lab\.net-core-dependency-injection\lab-di\bin\Debug\netcoreapp3.1\lab-di.pdb
+C:\Source\malta-lab\.net-core-dependency-injection\lab-di\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Source\malta-lab\.net-core-dependency-injection\lab-di\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Source\malta-lab\.net-core-dependency-injection\lab-di\obj\Debug\netcoreapp3.1\lab-di.csprojAssemblyReference.cache
+C:\Source\malta-lab\.net-core-dependency-injection\lab-di\obj\Debug\netcoreapp3.1\lab-di.AssemblyInfoInputs.cache
+C:\Source\malta-lab\.net-core-dependency-injection\lab-di\obj\Debug\netcoreapp3.1\lab-di.AssemblyInfo.cs
+C:\Source\malta-lab\.net-core-dependency-injection\lab-di\obj\Debug\netcoreapp3.1\lab-di.csproj.CoreCompileInputs.cache
+C:\Source\malta-lab\.net-core-dependency-injection\lab-di\obj\Debug\netcoreapp3.1\lab-di.csproj.CopyComplete
+C:\Source\malta-lab\.net-core-dependency-injection\lab-di\obj\Debug\netcoreapp3.1\lab-di.dll
+C:\Source\malta-lab\.net-core-dependency-injection\lab-di\obj\Debug\netcoreapp3.1\lab-di.pdb
+C:\Source\malta-lab\.net-core-dependency-injection\lab-di\obj\Debug\netcoreapp3.1\lab-di.genruntimeconfig.cache

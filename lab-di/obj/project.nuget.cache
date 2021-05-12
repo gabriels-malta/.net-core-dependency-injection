@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nLAKZ87r7nn4BUF9bfXeov/vm23R4g9pbUnMYy3gkJD7k/H7ju2n4Xwzt6fdSNyJkUTbeYVMosaXsJbIyjc7aQ==",
+  "success": true,
+  "projectFilePath": "C:\\Source\\malta-lab\\.net-core-dependency-injection\\lab-di\\lab-di.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel.malta\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\gabriel.malta\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
